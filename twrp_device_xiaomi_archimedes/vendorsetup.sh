@@ -1,0 +1,3 @@
+add_lunch_combo omni_Archimedes-user
+add_lunch_combo omni_Archimedes-userdebug
+add_lunch_combo omni_Archimedes-eng
